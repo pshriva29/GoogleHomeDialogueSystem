@@ -1,0 +1,771 @@
+{
+	"questions": [{
+			"question_id": 10,
+			"question_alternatives": [
+				"Why can't I see?",
+				"Why do I have blurred vision?",
+				"Why do I have a halo in my eye?"
+			],
+			"question_answer": "Notice if you have decrease in your vision you must contact your optomologist, this can be a long term consequence of breast cancer treatment )",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 20,
+			"question_alternatives": [
+				"why do I have arm swelling",
+				"why does my under arm feel swollen"
+			],
+			"question_answer": "If you notice swelling contact your breast cancer doctor right away. You may have lymphedema,ONLY your doctor can tell you if you have lymphedema.)",
+			"question_followup": [
+				21
+			]
+		},
+		{
+			"question_id": 21,
+			"question_alternatives": [
+				"what is lymphedema"
+			],
+			"question_answer": "Lymphedema is when you have a lack if feeling under your arm or on your arm.",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 30,
+			"question_alternatives": [
+				"Why am I tired",
+				"Why do I feel dizzy and tired"
+			],
+			"question_answer": "If you had chemotherapy or are taking hormonal therapy you might feel fatigued or tired.",
+			"question_followup": [
+				31
+			]
+		},
+		{
+			"question_id": 31,
+			"question_alternatives": [
+				"What are some suggestions to help being tired?"
+			],
+			"question_answer": "Some suggestions to help being fatigued are sleep 7-8 hours, sleep and wake up at the same time, develop a regular sleep schedule, eat foods with iron, try and get exercise each day, join a support group, have family and friends help you cook a meal, run errands, or do laundry Friends or family may want to help but may not know what to do.)",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 40,
+			"question_alternatives": [
+				"Why do I feel so hot",
+				"Why do I feel dizzy"
+			],
+			"question_answer": "If you take hormonal therapy you might experience hot flashes.)",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 41,
+			"question_alternatives": [
+				"What are hot flashes",
+				"What are some suggestions to help me?"
+			],
+			"question_answer": "A hot flash is a sudden,intense, hot feeling in the face or the upper body. You might also have a fast heartbeat, sweating, (sometimes at night which is why they're called night sweats). dizziness, nausea or chills. If you have hot flashes try these suggestions: Drink less alcohol, Avoid caffeine, spicy foods, hot showers, or baths. Keep your bedroom and home cool.)",
+			"question_followup": [
+				42
+			]
+		},
+		{
+			"question_id": 42,
+			"question_alternatives": [
+				"What are some more suggestions to help me?"
+			],
+			"question_answer": " Some more suggestions are Drink cool water and keep cool water by your bedside. Use cotton sheets and wear cotton clothes. IF you smoke, quit smoking. If your hot flashes become worse over time talk to your breast cancer doctor about medications you can take to help manage your hot flashes.",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 50,
+			"question_alternatives": [
+				"Why can't I stay asleep"
+			],
+			"question_answer": "If you have a hard time falling asleep, or staying asleep try these suggestions: Go to bed and wake up the same time, having the same bed time can help your sleep. Avoid naps, this can make it harder to sleep at night.",
+			"question_followup": [
+				51
+			]
+		},
+		{
+			"question_id": 51,
+			"question_alternatives": [
+				"What are some suggestions to help me?"
+			],
+			"question_answer": "Avoid spicy foods, caffeine, wine and alcohol as they can make the quality of sleep worse. Make sure the bedroom is dark. Try and get some exercise, going for a walk each day can help with sleep. If you cant sleep go to another room and do something relaxing until you feel sleepy and then go back to bed.",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 60,
+			"question_alternatives": [
+				"Why do I feel like throwing up"
+			],
+			"question_answer": "Nausea and vomitting is a common side effect of chemotherapy. Most women do not have nausea and vomitting after treatment.",
+			"question_followup": [
+				61
+
+			]
+		},
+		{
+			"question_id": 61,
+			"question_alternatives": [
+				"What is nausea",
+				"what can I do to help my nausea"
+			],
+			"question_answer": "If you have alot of nausea and vomitting it is important that you tell your breast cancer doctor about it. Some suggestions that may help are: Eat smaller meals throughout the day, Eat and drink slowly, Don't lie down right after you eat. Avoid greasy food, instead try rice, noodles, or crackers. When you feel nauseas breathe deeply and try to distract yourself by TV or listening to music. ",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 70,
+			"question_alternatives": [
+				"why do my bones hurt",
+				"why do I feel pain"
+			],
+			"question_answer": "Bone and joint pain can be a side effect of hormonal therapy. If you experience pain in your joints or bones try these suggestions for a couple of weeks: Take mild pain relievers like Advil or Tylenol. Use warm compresses to the area that has pain or take a warm bath.",
+			"question_followup": [
+				71
+			]
+		},
+		{
+			"question_id": 71,
+			"question_alternatives": [
+				"What can I do to help with bone pain"
+			],
+			"question_answer": "Adding exercise can help decrease joint or bone pain. If the pain doesn't improve or the pain keeps happening from doing every day activities then talk to your breast cancer doctor. It is important to know that other conditions can cause bone and joint pain. Talk to your doctor if you pain that does not go away.",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 80,
+			"question_alternatives": [
+				"Why can't I feel my toes or hands",
+				"Why does it feel like pins and needles"
+			],
+			"question_answer": "Neuropathy is a damage or irratation to the the peripheral nerves that can be acute or chronic. It can happen after or during chemotherapy. Usually the manifestations of neuropathy are numbness in toes or hands or both. It may also feel like pins and needles.",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 81,
+			"question_alternatives": [
+				" Why do I have difficulty walking"
+			],
+			"question_answer": "There may be a difficulty walking and this is a long term consequence from breast cancer treatment. It is important to speak to your oncologist and have a thorough evaluation by a neurologist. They would be able to tell you if there are medicines that can help with this.",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 90,
+			"question_alternatives": [
+				"why do I feel like my interest in sex has decreased",
+				"why do I feel like I am losing sense of my sexuality"
+			],
+			"question_answer": " During treatment for breast cancer, your interest in sex may have gone down. This is very common. You are not alone and sexual drive can be an important factor of quality of life for many women.  Dress in clothing you feel good in and attractive, and if you wear a breast form prosthesis make sure it fits well. Try to recognize that you are more than your cancer. You have worth no matter how you look or what happens in your life.",
+			"question_followup": [
+				91,
+				92,
+				172
+			]
+		},
+		{
+			"question_id": 91,
+			"question_alternatives": [
+				"What are some ways to help my partner gain intimacy"
+			],
+			"question_answer": "Talk to your partner. It is important that you communicate your feelings to your partner so they can understand  how you are feeling. Keep communication open and talk about what feels good and what does not. Improve your self- esteem. Being self conscious about how your body looks after surgery and side effects of treatment is only natural. There may be reasons for the low energy levels, vaginal dryness or discomfort from scar tissue that can effect how you feel about sexuality.",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 92,
+			"question_alternatives": [
+				"What are more suggestions to help my partner enjoy being intimate"
+			],
+			"question_answer": "Speak with your doctor. He/She might be able to provide suggestions. Ask them to refer you to a specialist or a gynecologist or a psychosexual therapist.Think about joining a support group, or look at many organizations listed in our community support section. Be open to change. You may find new ways to enjoy being intimate.",
+			"question_followup": [
+				172
+			]
+		},
+		{
+			"question_id": 100,
+			"question_alternatives": [
+				"why do I feel anxious",
+				"what are some strategies to help me"
+			],
+			"question_answer": "If you are feeling anxiety you can try some of these strategies: Deep breathing or relaxation activities that Myguide offers, If you are taking hormonal therapy, take the pill just as your doctor told you to, as it can help to prevent cancer from returning.",
+			"question_followup": [
+				101,
+				102
+			]
+		},
+		{
+			"question_id": 101,
+			"question_alternatives": [
+				"What are some more ways I can feel better about my fears"
+			],
+			"question_answer": "Use the time with your doctor to ask questions about any signs and symptoms that may worry you.  Expressing shared feelings like anger or sadness with others can help improve your mood. Remember that breast cancer can happen to anyone and there is no need to blame yourself or feel ashamed by having had cancer. Keep doing fun things that you enjoy doing. Focus on other things besides your cancer worries. Join a support group and talk to women who have been through breast cancer treatment.",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 102,
+			"question_alternatives": [
+				"I am worried my cancer will come back"
+			],
+			"question_answer": "Sometimes women who have finished their cancer treatment worry that their cancer may come back. Worrying about the cancer coming back is normal, especially during the first year after you have finished treatment. Anxiety means you have extra worry, can't relax, and feel tense or nervous.",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 110,
+			"question_alternatives": [
+				"what is depression"
+			],
+			"question_answer": "Depression is more than just feeling sad. Depression can lead you to stop enjoying activities you used to enjoy, and make you have less energy and feel helpless and hopeless.",
+			"question_followup": [
+				111
+			]
+		},
+		{
+			"question_id": 111,
+			"question_alternatives": [
+				"What can I do if I feel depressed"
+			],
+			"question_answer": "Try some of the strategies we list below but if you continue to feel sad for more than 2 weeks call your breast cancer doctor and let him know your mood so they can help you. Exercise can improve mood. Exercise several times a week.Make time for yourself each day to do things that make you feel happy. Even if you are feeling sad, it is important to keep doing some of the activities you find fun. Join a support group and write down your feelings in a diary or journal. Writing your feelings can help you feel better.",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 120,
+			"question_alternatives": [
+				"What can I expect from my friends and family"
+			],
+			"question_answer": " Breast cancer diagnosis can be overwhelming for your family members as it is for you. Expect roles, responsibilities, and priorities you are familiar with in your family and marriage may change. Talking about your diagnosis with your spouse, children or friends can help avoid misunderstandings.)",
+			"question_followup": [
+				180
+			]
+		},
+		{
+			"question_id": 130,
+			"question_alternatives": [
+				"How can my diagnosis affect other aspects of my life?"
+			],
+			"question_answer": "In this section of My guide, we discuss how breast cancer can affect your relationships and other aspects of your life such as your work life.",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 140,
+			"question_alternatives": [
+				"Who can I ask for help being single?"
+			],
+			"question_answer": " Coping with cancer can be difficult but not having a partner may make you feel alone. Its important to know that you dont have to face cancer alone. Even though you are single you still deserve support. You may get this from family, ir rely more on friends from all areas of your life.)",
+			"question_followup": [
+				150,
+				151
+			]
+		},
+		{
+			"question_id": 150,
+			"question_alternatives": [
+				"What do I need to do ask for help?",
+				"Asking for help being single"
+			],
+			"question_answer": "Sometimes we may need to take the first step to initiate a request for practical help or emotional support from people we might not think to ask during ordinary circumstances.",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 151,
+			"question_alternatives": [
+				"How can I figure out ways to ask for help?"
+			],
+			"question_answer": " Start by identifying specific ways in which others can be helpful on a practical level. Ask others to become part of your caregiving network by asking them to do specific things. Remember people like to feel useful. Invite friends and family to your home, and talk to each of them about how they can help you in specific ways. )",
+			"question_followup": [
+				152
+			]
+		},
+		{
+			"question_id": 152,
+			"question_alternatives": [
+				" I need more suggestions on how ask for help?"
+			],
+			"question_answer": " Remember support is not just practical but also emotional and social.You can reach a support group, a church, or a different spiritual community. Whether attending a group meet, yoga or walking in natrure the ability to reflect and connect with something outside of yourself can be very healing. Pursuing a hobby may make you feel connected with others based on shared interests. )",
+			"question_followup": []
+		},
+		{
+			"question_id": 160,
+			"question_alternatives": [
+				"How can I improve my dating relationships with my diagnosis?"
+			],
+			"question_answer": " Whether you are meeting new people, or have an established relationship, focusing on activities that you enjoy is important. If you are single or in a new relationship try not letting cancer be an excuse for not doing social things.Think about every relationship as a learning process. Not every interaction has to be perfect.)",
+			"question_followup": [
+				161
+			]
+		},
+		{
+			"question_id": 161,
+			"question_alternatives": [
+				" What are some more ways to improve my dating relationships?"
+			],
+			"question_answer": "If you are beginning a new relationship, wait until you feel a sense of trust and friendship before telling a new date about your cancer. If are dating someone and they reject you ( which can happen with or without cancer) ypu have not failed. Try to remember that not all dates worked out before you had cancer. )",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 170,
+			"question_alternatives": [
+				"I am botherd by my sexual changes after breast cancer"
+
+			],
+			"question_answer": "Changes to the way your body looks may also affect your interest in sex. Some side effects of treatment can impact your sex life. Hormone therapy such as Tamoxifen or Femara may cause loss of interest in sex. Express your concerns and ask your doctor questions.They can provide suggestions for managing sexual side effects. )",
+			"question_followup": [
+				171
+			]
+		},
+		{
+			"question_id": 171,
+			"question_alternatives": [
+				"How can I improve my sexuality",
+				"Sex and intimacy difficult"
+			],
+			"question_answer": " Use a vaginal lubricant during sexual activity. Avoid vaseline or skin lotion as lubricant. These can damage condoms and may raise risk to a yeast infection. You can try a vaginal moisturizer, such as Replens and applied 2-3x a week regardless of sexual activity.)",
+			"question_followup": [
+				172
+			]
+		},
+		{
+			"question_id": 172,
+			"question_alternatives": [
+				"I need more suggestions on how to improve my sexuality and intimacy"
+			],
+			"question_answer": " You can think outside the box. Use kissing, touching, caressing to build intimacy with eachother. You can experiment different positions to see which is most comfortable. Talk to your doctor, he or she may be able to provide suggestions, If they cannot, ask them to refer you to a specialist or a gynecologist.)",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 180,
+			"question_alternatives": [
+				"How can I talk to my child about my diagnosis?",
+				"How can I protect my child from fears of my diagnosis?"
+			],
+			"question_answer": " Although you want to protect your children from fear and other difficult feelings, it is important to talk openly with them about your diagnosis and treatment. Avoiding the topic with them might cause them to fear that things are worse than they actually are. Honest communication may help them cope with your diagnosis.)",
+			"question_followup": [
+				181
+			]
+		},
+		{
+			"question_id": 181,
+			"question_alternatives": [
+				" How can I balance my needs and my chidren's needs?"
+			],
+			"question_answer": " Being a parent while living with cancer is often physically and emotionally exhausting. You may want to reconsider your to do list and accept help from others. Knowing that you do not have the time or energy for everything will help create realistic goals and expectations.)",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 190,
+			"question_alternatives": [
+				"What are some benefits of a support group?"
+			],
+			"question_answer": "Support groups provide you with an opportunity to meet other women who have gone through cancer. Many support groups are just for women who had breast cancer so the women in group will have had similar experiences. They also provide the opportunity to feel connected to the other women who have gone through the similar experience and receive comfort and support.)",
+			"question_followup": [
+				191,
+				192,
+				193
+			]
+		},
+		{
+			"question_id": 191,
+			"question_alternatives": [
+				" How often do I need to go to a support group?"
+			],
+			"question_answer": " Each support group is different but generally support groups will meet once or every 2 weeks. You don't have to attend every support group, but it is a good idea to go as many support groups as you can go.)",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 192,
+			"question_alternatives": [
+				"Is what I say in a support group kept private?"
+
+			],
+			"question_answer": " Although it is impossible to guarantee complete privacy, an important rule of all support groups is that women must maintain the privacy of the group.)",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 193,
+			"question_alternatives": [
+				"What if I am shy and just want to listen?"
+			],
+			"question_answer": "You can use the support group to just listen to other women talk about there experiences. Once you feel comfortable in your group you can begin to share feelings or ask other women questions.)",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 200,
+			"question_alternatives": [
+				"Can I return to my job after treatment?"
+			],
+			"question_answer": " If you were working before cancer, you might find that returning to work will help maintain your sense of who you are and how you fit in. It might even help build your self esteem, not to mention your income. Your job may remind you have a life apart from cancer. You'll also have regular contact with others when you go back to work.)",
+			"question_followup": [
+				201
+			]
+		},
+		{
+			"question_id": 201,
+			"question_alternatives": [
+				"I am having a hard transitioning back to work?"
+			],
+			"question_answer": "For some people the transition to working full time is easy but for others it takes some adjustment. You may find that you tire easily. Try to be patient and take care of yourself as you go back to your normal life Talk with your doctor about the kind of work you do and problems you are having as you decide how to re-enter the workforce.)",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 210,
+			"question_alternatives": [
+				" What is breast cancer?"
+			],
+			"question_answer": " Cancer begins in the cells. Cells are blocks that make up every part of our bodies, including our breasts. Breast cancer begins when the breast change and grow into a tumor.)",
+			"question_followup": [
+				211
+			]
+		},
+		{
+			"question_id": 211,
+			"question_alternatives": [
+				" Is breast cancer contagious?"
+			],
+			"question_answer": " Breast cancer is not contagious, so in other words it is not spread from person to person.)",
+			"question_followup": []
+		},
+		{
+			"question_id": 220,
+			"question_alternatives": [
+				"What are the stages of breast cancer?",
+				"How many steps of breast cancer are there?"
+			],
+			"question_answer": "Breast cancer is grouped in several stages. These stages range from stage l to 4. Stage 1-2 is considered early stage breast cancer. Stage 3 is locally advanced breast cancer. Stage 4 is advanced cancer that has spread to other parts of the body such as liver, lungs, and brain.)",
+			"question_followup": []
+		},
+		{
+			"question_id": 230,
+			"question_alternatives": [
+				"What are some myths about breast cancer?"
+			],
+			"question_answer": " Breast cancer is not always a death sentence. In fact women whose breast cancer has not spread to lungs, liver or brain are cured if they get the right treatment. Your attitude or stress will not bring back cancer. Research has not found that your attitude or stress can cause cancer to return.  Cell phones do not cause cancer that is no scientific information that indicates this. )",
+			"question_followup": [{
+				"question_id": 240,
+				"question_alternatives": [
+					"What is the most common way to remove breast cancer?"
+				],
+				"question_answer": " The most common way to remove breast cancer is surgery. There are two types of surgery lumpectomy and mastectomy.)",
+				"question_followup": [
+					241
+				]
+			}]
+		},
+		{
+			"question_id": 241,
+			"question_alternatives": [
+				" What is a mastectomy?",
+				"What is a lumpectomy"
+			],
+			"question_answer": "Lumpectomy is a type of surgery that removes the cancer while leaving the nipple and as much of the breast as possible. A mastectomyis a type of surgery that generally removes the entire breast, including the nipple.  )",
+			"question_followup": []
+		},
+		{
+			"question_id": 250,
+			"question_alternatives": [
+				" What is radiation?"
+			],
+			"question_answer": "The goal of radiation is to kill any cancer cells that might still be in the body even after your surgery. By doing this, radiation therapy lowers the chances of the cancer coming back. The radiation is sent to the tumor and not the entire body.)",
+			"question_followup": []
+		},
+		{
+			"question_id": 260,
+			"question_alternatives": [
+				"What is chemotherapy?"
+			],
+			"question_answer": "Chemotherapy uses drugs to kill cancer cells and it may be given before or after surgery. However, not all breast cancer patients need or get chemotherapy.If you had chemotherapy, you might have felt more fatigued, or tired after the chemotherapy finished.)",
+			"question_followup": []
+		},
+		{
+			"question_id": 270,
+			"question_alternatives": [
+				"What is targeted therapy?"
+			],
+			"question_answer": "Some common targeted therapies are Herceptin and Avastin. Targeted therapy works by slowing or stopping cancer cells from growing. Targeted therapy can be given into your body through a thin needle or as a pill. It is often given at the same time as chemotherapy and can be taken for up to one year after chemotherapy is finished.)",
+			"question_followup": [
+				271
+			]
+		},
+		{
+			"question_id": 271,
+			"question_alternatives": [
+				"What are side effects of targeted therapy?"
+			],
+			"question_answer": " Some side effects are diarrhea, headache, dizziness, and flu like symptoms including fever, chills and aching.)",
+			"question_followup": []
+		},
+		{
+			"question_id": 280,
+			"question_alternatives": [
+				"What is hormonal therapy?"
+			],
+			"question_answer": "Tamoxifen, Arimidex, and Femara are common hormone therapies.Hormone therapy is given as a pill and keeps the cancer cells from growing again. Hormone therapy works by stopping the natural hormones in your body called estrogen and progesterone, from helping any cancer cells in your body to grow.)",
+			"question_followup": [
+				310
+			]
+		},
+		{
+			"question_id": 290,
+			"question_alternatives": [
+				"Do I need breast reconstruction surgery?"
+
+			],
+			"question_answer": "If you have had a mastectomy then you may have been offered a choice to have survery to rebuild the shape of your breast. Not all women choose to have breast reconstruction surgery. Instead some women choose to wear a breast prosthesis. Your doctor can tell you more on both of these options.)",
+			"question_followup": []
+		},
+		{
+			"question_id": 300,
+			"question_alternatives": [
+				"What are my next steps?",
+				" What happens after treatment?"
+			],
+			"question_answer": " Now that you are done with the main part of your treatment, it is important you continue to see your doctor. Your breast cancer doctor may have you return to see him every three months. You should discuss any health issues or concers you may be having. You should take any medications exactly as prescribed and communicate with your doctor.)",
+			"question_followup": []
+		},
+		{
+			"question_id": 310,
+			"question_alternatives": [
+				"How do I take my hormonal therapy?"
+			],
+			"question_answer": " Take the hormonal pill every day. Take it at about the same time each day. If you forget to take the pill, you can still take it later on in the day. If you remember the next day you do not need to take 2 pills in a row. Just take one that day. You can take this food. You can continue to do your every day activities while on the pill.)",
+			"question_followup": [
+				311,
+				312,
+				313,
+				314
+			]
+		},
+		{
+			"question_id": 311,
+			"question_alternatives": [
+				"What are side effects of the hormonal pill?"
+			],
+			"question_answer": "The side effects from hormone therapy are different for each type of therapy and can also be different for each woman. Common side effects of Arimidex, Femara, and Aromasin are bone and joint pain, hot flashes, fatigue, and nausea. Some side effects of Tamoxifen are depression,fatigue, hot flashes, night sweats.)",
+			"question_followup": [
+
+			]
+		},
+		{
+			"question_id": 312,
+			"question_alternatives": [
+				"Is there anything I should be worried about taking Tamoxifen?"
+			],
+			"question_answer": " If you have a uterus, make sure you check up yearly with a gynecologist for a pap smear. One of of side effects of Tamoxifen is blood clots. Signs of a blood clot is menopausal symptoms which may feel tolerable but as time goes on can be unbearable.)",
+			"question_followup": []
+		},
+		{
+			"question_id": 313,
+			"question_alternatives": [
+				"How long do I have to take hormonal therapy? "
+			],
+			"question_answer": "Most women will take hormonal therapy every day for 5 to 10 years. Talk to your doctor if you have questions about how many years you should be taking hormonal therapy.)",
+			"question_followup": []
+		},
+		{
+			"question_id": 314,
+			"question_alternatives": [
+				" Can I skip my hormonal therapy?"
+			],
+			"question_answer": "No. In order for hormonal therapy to be most helpful at preventing breast cancer from coming back, it is important that you take it every day, even when you are traveling.)",
+			"question_followup": []
+		},
+		{
+			"question_id": 320,
+			"question_alternatives": [
+				"What are some tips for taking my pill?"
+			],
+			"question_answer": " Try to keep your hormonal therapy pills in a visible place that will remind you to take it. Use reminders such as setting an alarm clock to go off every day at the same time to remind you. Use a pill box, and write down your medications in a calender.)",
+			"question_followup": []
+		},
+		{
+			"question_id": 330,
+			"question_alternatives": [
+				"What can I do to lower my chance of breast cancer coming back?"
+			],
+			"question_answer": "If you are prescribed hormonal therapy take it at the same time and as prescribed. Try to keep a healthy weight and eat healthy foods. Exercise 4-5 days a week.)",
+			"question_followup": []
+		},
+		{
+			"question_id": 340,
+			"question_alternatives": [
+				"What are my options in terms of having children?",
+				"Can I still have children?"
+
+			],
+			"question_answer": "Some breast cancer treatments can cause infertility. Infertility makes it near impossible to have children. Depending on type of treatment you received, your age, and when you finished your treatments, you may still be able to have children.)",
+			"question_followup": []
+		},
+		{
+			"question_id": 350,
+			"question_alternatives": [
+				"What are some support groups available to me?"
+			],
+			"question_answer": " ELLAS located on 1818 South Paulina Street in Chicago Illinois, ALAS (The Latina Association) located on 3023 N. Clark Street in Chicago, Illinois. Gilda's Club located on 537 North Wells Street in Chicago Illinois. Casting for Recovery can reached by phone at 888-553-3500.)",
+			"question_followup": [
+				351
+			]
+		},
+		{
+			"question_id": 351,
+			"question_alternatives": [
+				"What are some more support groups?"
+			],
+			"question_answer": " Imerman angels on 205 W Randolph 19th floor in Chicago Illinois. Share Cancer Support can reached by phone at 212-719-0364. LiveStrong Navigator can be reached by phone at 855-7777.)",
+			"question_followup": []
+		},
+		{
+			"question_id": 360,
+			"question_alternatives": [
+				"What are some counseling options?",
+				"Is there counseling available near me?"
+			],
+			"question_answer": " Centro Castillo can be reached by phone at 773-622-6218. Wellness center in pilsen and little village can be reached at 773-579-0832. Evanston northshore hospital can be reached at 847-425-6400.)",
+			"question_followup": []
+		},
+		{
+			"question_id": 370,
+			"question_alternatives": [
+				"I need a health clinic near me"
+			],
+			"question_answer": "Community Health Clinic is located at 2611 W Chicago Ave, Chicago Illinois. Greater Chicago food depository at 4100 W Ann Lurie Place Chicago Illinois. Alivio is a bilingual medical center and can be reached at 773-254-1400.)",
+			"question_followup": []
+		},
+		{
+			"question_id": 380,
+			"question_alternatives": [
+				"Where are alternative medicine facilities near me?"
+			],
+			"question_answer": "Chicago Health and physical therapy on 5545 N Montrose Ave Chicago Illinois .)",
+			"question_followup": []
+		},
+		{
+			"question_id": 390,
+			"question_alternatives": [
+				"Where can I find hair, bras and sleeves for my breast cancer?"
+			],
+			"question_answer": " Cancermatters.com, Haircare in Illinois at illnoiscancerspecialists.com, Second Act Boutique at 2924 North Lincoln Ave in Chicago Illinois. .)",
+			"question_followup": []
+		},
+		{
+			"question_id": 400,
+			"question_alternatives": [
+				"I need financial assistance"
+			],
+			"question_answer": " theassistancefund.org, asilverliningfoundation.org, and catholiccharities.net.)",
+			"question_followup": []
+		},
+		{
+			"question_id": 410,
+			"question_alternatives": [
+				"I need assistance with housing"
+			],
+			"question_answer": " Erie Neighborhood House at 312-563-5800, Illinois Housing search at 1877-428-8844, Casa Central at 773-645-2300, and catholiccharities.net .)",
+			"question_followup": []
+		},
+		{
+			"question_id": 420,
+			"question_alternatives": [
+				"I need transportation services"
+			],
+			"question_answer": " Road to Recovery at 888-227-6333 .)",
+			"question_followup": []
+		},
+
+		{
+			"question_id": 430,
+			"question_alternatives": [
+				"What are the health insurance services available to me?"
+			],
+			"question_answer": " illinois.gov, and healthcare.gov .)",
+			"question_followup": []
+		},
+
+		{
+			"question_id": 440,
+			"question_alternatives": [
+				"I need prescription assistance"
+			],
+			"question_answer": "pparx.org.)",
+			"question_followup": []
+		},
+
+		{
+			"question_id": 450,
+			"question_alternatives": [
+				"I need general legal assistance"
+			],
+			"question_answer": " Be at Ease planning for the unexpected can be reached at beastease.org or can be reached at 312-912-2678.)",
+			"question_followup": []
+		},
+		{
+			"question_id": 460,
+			"question_alternatives": [
+				"Tell me a story"
+			],
+			"type":"audio",
+			"question_followup": [],
+			"question_answer" : ["https://storage.googleapis.com/pragati_2905/Song1.mp3",
+			                    "https://storage.googleapis.com/pragati_2905/Song2.mp3",
+								"https://storage.googleapis.com/pragati_2905/Song3.mp3",
+								"https://storage.googleapis.com/pragati_2905/EnglishSong1.mp3",
+								"https://storage.googleapis.com/pragati_2905/EnglishSong2.mp3",
+								"https://storage.googleapis.com/pragati_2905/EnglishSong3.mp3"
+								]
+		},
+		{
+			"question_id":470,
+			"question_followup":[],
+			"question_alternatives":["what can you do",
+									 "what can you tell me",
+									 "can you tell me about breast cancer"],
+			"question_answer":[
+				"I can help you with any question related to your breast cancer experience. You can describe symptoms, questions about your medication, etc. Let's start: Ask me a question about breast cancer",
+				"I know a lot about breast cancer and symptoms you may experience after treatment. Ask me."
+			]
+		}
+	
+	]
+}
